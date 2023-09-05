@@ -1,0 +1,44 @@
+TATKAL RESERVATION CAN OPEN 2 OR MORE DAYS IN ADVANCE:
+Tatkal reservation opens 1 day in advance at 10 am for ac class and at 
+11am for non-ac class. But if the train departs from your boarding 
+station one day after it begins its journey from its originating station
+then tatkal reservation will open 2 days in advance for your journey. 
+For example, the tatkal ticket from Delhi to Mumbai in Punjab Mail 
+(12138) opens 2 day in advance because the train departs from Delhi 
+on 2nd day of its journey! Similarly, advance reservation period in this
+case is 121 days and not 120 days.
+
+GET A CONFIRM TICKET BY EXTENDING DESTINATION CITY: 
+If you are getting waiting ticket for your origin-destination pair in a 
+train, then change the destination to a station which comes 2-3 stops 
+after your alight station. Sometimes you might find confirmed ticket in 
+this case. Or if not confirmed then you might find a better waiting list 
+quota. For example, if you have to go from Delhi to Surat in Mumbai 
+Rajdhani (12952) you get a RSWL from Delhi to Surat (which has less
+chances of confirmation), but if you book ticket from Delhi to Mumbai
+you might get a confirmed ticket or a GNWL waiting list (which has 
+much better chances of confirmation). And you can still alight the 
+train at Surat!
+
+TAKE CARE OF DATE IF DEPARTURE IS AFTER 12 MIDNIGHT: 
+In cases where train departure time at passenger boarding station is
+after 12am (say 12:30am), then you should keep in mind to put journey
+date as the next day.
+
+CIRCULAR JOURNEY:
+If you wish to go on a tour where no. of destinations is between 4 and 
+8, you can opt for circular journey tickets. For this ticket, journey 
+should begin and end at the same station. These tickets give the 
+benefit of telescopic rates which are considerably lower than regular 
+point-to-point fare.
+
+DO NOT BOARD THE TRAIN IF ALL PASSENGERS ARE IN WAITING LIST:
+If you have a waitlisted e-ticket and it remains fully waitlisted 
+(waitlisted for all the passengers) even after chart preparation then 
+your names will not come in chart and the tickets will get automatically
+cancelled. Please DO NOT board the train in this case as it is treated as
+ticketless travel.
+
+GET YOU SEAT/BERTH CHECKED BY TTE:
+If you do not get your ticket checked by TTE, then he might assign your
+seat/berth to someone else.

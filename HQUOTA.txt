@@ -1,0 +1,30 @@
+GENERAL (GN): This is the most common quota in Indian Railways. It has
+highest no. of seats allocation in a train. No extra charge is collected 
+in this quota. 
+
+TATKAL (CQ): Tatkal Quota is meant mainly for the passengers who have
+urgent travel plans. Booking for this quota opens one day before the 
+date of journey.
+
+PREMIUM TATKAL(PT): This quota is introduced for some special trains 
+only. It has Dynamic Fare pricing. Price of this tickets increase as the 
+demand increases. Reservation period of this quota is same as Tatkal.
+
+LADIES (LD): This quota is reserved for the ladies of age above 45 yrs. 
+travelling alone in the train. This quota is only available for SL 
+class. Only 6 seats are reserved under this quota in a train.
+
+DISABLED (HP): Physically Handicaped quota is available for the person 
+with disabilites. They have to carry a special ID provided by Railways.
+
+DEFENCE (DF): This quota benefits our I.A.F. Under this, two seats are 
+reserved in most of trains.
+
+FOREIGN TOURIST (FT): This quota holds for the the foreign tourists
+who visit India. But unlike General quota people, this can be availed 1
+yr. (365 days) before the travel. But, berth for this quota is allocated
+120 days [ARP (Advance Reservation Period)] before the journey.
+
+SENIOR CITIZEN CONCESSION: This feature is for the passengers of age
+above 60 yrs. They get a special fare concession ranging from 25%(in
+AC Class) to 50%(in NON-AC Class).
